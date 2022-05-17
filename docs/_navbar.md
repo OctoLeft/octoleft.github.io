@@ -1,2 +1,0 @@
-- [What's New](whatsnew.md)
-- [**EN** / CN](cn/)
